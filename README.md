@@ -1,4 +1,18 @@
 # The basic requirement of  Mongolian script editor applicaion
 
-National Standard of PRC
+## Range
+
+## Glossary and definition
+
+## Level of requirement
+
+## Basic
+
+## Requirement of  Document
+
+## Requirement of spreadsheet ᠎application
+
+## 
+
+
 
