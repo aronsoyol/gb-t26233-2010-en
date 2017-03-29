@@ -4,14 +4,12 @@
 
 ### 4.1.1 Writing mode of Mongolian
 
-The general word processing application must satisfy the  requirement of Writing mode of Mongolian script.
+The general word processing application must satisfy the  requirement of Writing mode of Mongolian script.  
 The figure 1 represents both Mongolian text with "tb-lr" and "tb-rl" writing mode.
 
 The graphic user interface of Application must offer the option to change layout mode, the default option for Mongolian text must be "tb-lr"
 
-
-
-### 4.1.2 Paragraph 
+### 4.1.2 Paragraph
 
 * Alignment
 * Indentation
@@ -58,11 +56,6 @@ The graphic user interface of Application must offer the option to change layout
 ### 4.1.21 Decoration
 
 ### 4.1.22 Dialog for spcial character insertion
-
-
-
-
-
 
 
 
