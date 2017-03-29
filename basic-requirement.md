@@ -1,6 +1,6 @@
-# Basic requirement
+# 4. Basic requirement
 
-## level 1
+## 4.1 level 1
 
 ### 4.1.1 Writing mode of Mongolian
 
