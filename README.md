@@ -1,4 +1,4 @@
-# The basic requirement of  Mongolian script editor applicaion
+# The basic requirement of  Mongolian script editor application
 
 ## Range
 
@@ -6,7 +6,7 @@
 
 ## Level of requirement
 
-## Basic
+## Basic requirement
 
 ## Requirement of  Document
 
