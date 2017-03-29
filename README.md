@@ -1,15 +1,15 @@
 # The basic requirement of  Mongolian script editor application
 
-## Range
+## 1. Range
 
-## Glossary and definition
+## 2. Glossary and definition
 
-## Level of requirement
+## 3. Level of requirement
 
-## Basic requirement
+## 4. Basic requirement
 
-## Requirement of  Document
+## 5. Requirement of Document
 
-## Requirement of spreadsheet ᠎application
+## 6. Requirement of spreadsheet application
 
 
