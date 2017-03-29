@@ -12,7 +12,4 @@
 
 ## Requirement of spreadsheet ᠎application
 
-## 
-
-
 
